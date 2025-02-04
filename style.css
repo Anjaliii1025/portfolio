@@ -15,17 +15,8 @@ a {
 .bars {
   float: right;
   padding: 1.5rem;
-  /* display: inline-block; */
   font-size: 20px;
   font-weight: bolder;
-}
-.logo{
-  float: left;
-  width: 100px;
-  height: 100px;
-  padding: 1rem;
-  margin-left: 20px;
-  mix-blend-mode: multiply;
 }
 
 @media (max-width: 768px) {
